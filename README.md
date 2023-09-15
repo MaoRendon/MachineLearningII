@@ -2,13 +2,13 @@
 
 This project addresses the Workshop about Clustering.
 
-Spectral Clustering
-DBSCAN
-k-means 
-k-medoids
-Modules in unsupervised to cluster some toy data
-Code snippet to create different types of scattered data
-Apply k-means, k-medoids, DBSCAN and Spectral Clustering from Scikit-Learn over diferent dataset
+* Spectral Clustering
+* DBSCAN
+* k-means 
+* k-medoids
+* Modules in unsupervised to cluster some toy data
+* Code snippet to create different types of scattered data
+* Apply k-means, k-medoids, DBSCAN and Spectral Clustering from Scikit-Learn over diferent dataset
 
 Previous requirements
 Python 3.x Jupyter Notebook
